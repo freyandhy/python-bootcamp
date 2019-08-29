@@ -1,1 +1,3 @@
 Ini adalah isi file Bio.txt
+
+ini baris baru di file Bio.txt
